@@ -1,0 +1,12 @@
+[package]
+name = "udr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wasm-bindgen = "0.2.92"
+reqwest = "0.12.5"
+scraper = "0.12.0"
+
+[lib]
+crate-type = ["cdylib"]
