@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "JavaScript Interface",
+  "main": "index.js",
+  "repository": "https://github.com/bigg-S/unified-dep-resolver.git",
+  "author": "bigg-S",
+  "license": "MIT"
+}
